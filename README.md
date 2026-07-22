@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sandeep Kumar Singh
 
-## Enterprise AI Infrastructure Architect
+## Enterprise Gen-AI & Infrastructure Platform Architect
 
 I design and build production-grade AI infrastructure for Enterprise GenAI applications.
 
