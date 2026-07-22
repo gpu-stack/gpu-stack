@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sandeep Kumar Singh
 
-## Enterprise AI Infrastructure Architect
+## Enterprise Gen-AI & Infrastructure Platform Architect
 
 Building production-grade AI platforms powered by **NVIDIA GPUs**, **LLMs**, **Kubernetes**, and **Enterprise GenAI**.
 
