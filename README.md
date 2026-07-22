@@ -82,10 +82,7 @@ I specialize in designing scalable AI infrastructure for model serving, Retrieva
 ### Platform Engineering
 
 - Kubernetes
-- Docker
-- Helm
 - Terraform
-- GitHub Actions
 - Linux
 
 ### Backend Development
