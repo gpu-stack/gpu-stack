@@ -1,14 +1,14 @@
-# Hi 👋 I'm Sandeep Kumar Singh
+# Sandeep Kumar Singh
 
-## Enterprise Gen-AI & Infrastructure Platform Architect
+## Principal AI Infrastructure Architect | Enterprise GenAI | GPU Platforms | AI Factory | Hybrid Cloud
 
-Building production-grade AI platforms powered by **NVIDIA GPUs**, **LLMs**, **Kubernetes**, and **Enterprise GenAI**.
+Helping enterprises design, modernize, and scale **production-grade AI Platforms** by combining **GPU Infrastructure**, **Enterprise GenAI**, **Hybrid Cloud**, and **LLM Platform Engineering**.
 
-I specialize in designing scalable AI infrastructure for model serving, Retrieval-Augmented Generation (RAG), GPU clusters, AI observability, and hybrid cloud platforms.
+With 16+ years in Enterprise Architecture and Cloud Transformation, my work focuses on translating business strategy into secure, scalable, and cost-efficient AI platforms that move organizations from experimentation to enterprise-wide adoption.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeepsingh-ea)
 [![Medium](https://img.shields.io/badge/Medium-Technical_Blogs-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sandipsingh.2007)
@@ -17,194 +17,145 @@ I specialize in designing scalable AI infrastructure for model serving, Retrieva
 
 ---
 
-# 🚀 Areas of Expertise
+# Executive Summary
 
-- 🤖 Enterprise GenAI Platforms
-- ⚡ GPU Infrastructure & AI Factories
-- 🧠 Large Language Models (LLMs)
-- 🚀 High Performance AI Inference
-- 📚 Retrieval-Augmented Generation (RAG)
-- ☸️ Kubernetes & Container Platforms
-- ☁️ Hybrid & Private Cloud
-- 📊 AI Observability & Evaluation
-- 🔐 Enterprise AI Security & Governance
-- 💰 AI Cost & Performance Optimization
+I specialize in architecting enterprise AI ecosystems that bridge business objectives with production-ready technology.
+
+My work spans AI platform strategy, GPU infrastructure, enterprise GenAI adoption, reference architectures, governance frameworks, and high-performance inference platforms.
+
+I enjoy solving problems that sit at the intersection of architecture, engineering, operations, and business transformation.
 
 ---
 
-# 🟢 NVIDIA AI Ecosystem
+# Architecture Domains
+
+### Enterprise AI Platforms
+
+Designing scalable AI platforms capable of supporting multiple business units, tenants, and workloads while maintaining security, governance, and operational excellence.
+
+### AI Factory & GPU Infrastructure
+
+Architecting AI factories leveraging NVIDIA GPU platforms, high-performance networking, storage, and distributed inference for enterprise-scale AI.
+
+### LLM Platform Engineering
+
+Building reusable AI platforms that standardize model serving, routing, observability, security, and lifecycle management across organizations.
+
+### Retrieval-Augmented Generation (RAG)
+
+Designing enterprise knowledge platforms that combine vector search, document intelligence, governance, and LLMs to deliver trustworthy AI applications.
+
+### Hybrid & Sovereign AI
+
+Helping organizations deploy AI securely across public cloud, private cloud, and sovereign infrastructure while meeting compliance and data residency requirements.
+
+### AI Governance & Responsible AI
+
+Designing enterprise guardrails covering security, policy enforcement, evaluation, observability, and operational governance.
+
+---
+
+# Strategic Technology Focus
+
+Rather than focusing on individual tools, I focus on designing platforms built around modern AI infrastructure including:
 
 - NVIDIA AI Enterprise
 - NVIDIA AI Factory
 - NVIDIA NIM
-- NVIDIA NeMo
-- NVIDIA NeMo Guardrails
-- TensorRT
+- NVIDIA NeMo & NeMo Guardrails
 - TensorRT-LLM
 - Triton Inference Server
-- CUDA
-- CUDA-X AI Libraries
-- NCCL
-- GPUDirect RDMA
-- NVLink & NVSwitch
-- BlueField DPUs
-- ConnectX SmartNICs
-- NVIDIA DCGM
-- NVIDIA GPU Operator
-
----
-
-# 🛠 AI Infrastructure Stack
-
-### LLM Serving
-
+- Kubernetes
 - vLLM
 - LiteLLM
-- Hugging Face Transformers
-- Ollama
-- OpenAI Compatible APIs
-
-### Retrieval & Vector Databases
-
 - Qdrant
-- FAISS
-- Hybrid Search
-- Semantic Search
-- Reranking Pipelines
-
-### AI Observability
-
 - Langfuse
 - MLflow
 - Prometheus
 - Grafana
 
-### Platform Engineering
+---
 
-- Kubernetes
-- Terraform
-- Linux
+# Reference Architectures
 
-### Backend Development
+### Enterprise AI Platform
 
-- Python
-- FastAPI
-- REST APIs
+Unified platform supporting multiple AI use cases through centralized model serving, governance, observability, and GPU resource optimization.
 
 ---
 
-# 🏗 Featured Projects
+### Enterprise RAG Platform
 
-## 🚀 Enterprise RAG Platform
-
-Production-ready Retrieval-Augmented Generation platform featuring:
-
-- Multi-tenant Architecture
-- Qdrant Vector Database
-- vLLM Inference
-- LiteLLM Gateway
-- Langfuse Observability
-- MLflow Experiment Tracking
-- RAG Evaluation Pipeline
-- Production Deployment on Kubernetes
+Reference architecture for secure enterprise knowledge systems combining document ingestion, semantic retrieval, reranking, and production-grade inference.
 
 ---
 
-## ⚡ AI Inference Gateway
+### AI Inference Platform
 
-High-performance inference gateway supporting:
-
-- OpenAI Compatible APIs
-- Intelligent Model Routing
-- Load Balancing
-- Multi-Model Serving
-- Cost Optimization
-- Rate Limiting
-- Observability
+Scalable inference platform supporting intelligent routing, multi-model deployment, API standardization, and workload optimization.
 
 ---
 
-## 🧠 GPU Infrastructure Lab
+### AI Factory
 
-Hands-on experiments with:
-
-- NVIDIA GPU Clusters
-- TensorRT-LLM
-- NIM
-- Triton
-- GPU Benchmarking
-- Performance Optimization
-- Multi-GPU Scaling
+Reference architecture for enterprise GPU infrastructure integrating compute, networking, storage, model lifecycle, and operational governance.
 
 ---
 
-# 📊 Current Areas of Research
+# Current Areas of Exploration
 
 - AI Factories
-- Distributed GPU Clusters
-- TensorRT-LLM Optimization
-- Agentic AI Infrastructure
-- Multi-node LLM Inference
-- AI Observability
-- GPU Scheduling
+- Distributed GPU Infrastructure
+- Agentic AI Platforms
 - AI Platform Engineering
+- Multi-cluster GPU Scheduling
+- AI Observability
+- Sovereign AI
+- Hybrid AI Cloud
+- Enterprise AI Governance
 
 ---
 
-# 📝 Technical Writing
+# Technical Publications
 
-I regularly publish technical articles covering:
+I regularly write about enterprise AI architecture and production engineering, including:
 
 - Enterprise AI Infrastructure
-- NVIDIA AI Stack
-- GPU Clusters
-- Large Language Models
-- RAG Architecture
+- AI Factory Design
+- GPU Platform Engineering
+- Enterprise RAG
 - AI Cost Optimization
-- AI Platform Engineering
-- Kubernetes for AI
-- AI Performance Benchmarking
+- AI Observability
+- LLM Evaluation
+- Production AI Systems
 
-Recent topics include:
+Recent articles include:
 
 - Stop Buying Bigger GPUs. Your AI Probably Doesn't Need Them.
-- Engineering a Production-Grade Multi-Tenant RAG Pipeline
+- Engineering a Production-Grade Multi-Tenant RAG Platform
 - Improving RAG Faithfulness from 0.00 to 0.93+
 - Enterprise AI Infrastructure Best Practices
 
-📖 Read more on Medium and connect with me on LinkedIn for architecture deep dives and engineering insights.
-
 ---
 
-# 🎯 Current Focus
+# Open Source Focus
 
-Currently building enterprise-grade AI infrastructure around:
-
-- NVIDIA AI Enterprise
-- Kubernetes
-- TensorRT-LLM
-- NVIDIA NIM
-- vLLM
-- LiteLLM
-- RAG Pipelines
-- AI Observability
-- GPU Performance Optimization
-
----
-
-# 🤝 Open to Collaborate
-
-I'm interested in collaborating on projects involving:
+My repositories primarily explore:
 
 - Enterprise AI Platforms
+- AI Infrastructure Reference Architectures
+- Production RAG Systems
 - GPU Infrastructure
-- LLM Inference
-- AI Platform Engineering
-- Kubernetes for AI
-- NVIDIA Ecosystem
-- AI Infrastructure Automation
-- Production GenAI Systems
+- LLM Serving Platforms
+- AI Observability
+- AI Platform Automation
 
 ---
 
-> *"Building scalable AI Infrastructure that transforms enterprise ideas into production-grade intelligent systems."*
+# Philosophy
+
+> Great AI systems are not built by choosing a better model.
+>
+> They are built by designing better platforms.
+
+I believe successful enterprise AI is achieved through thoughtful architecture, operational excellence, governance, and engineering discipline—not by isolated technology choices.
