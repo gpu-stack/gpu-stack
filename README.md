@@ -1,6 +1,6 @@
-# Sandeep Kumar Singh
+# Sandeep Singh
 
-## Principal AI Infrastructure Architect | Enterprise GenAI | GPU Platforms | AI Factory | Hybrid Cloud
+## Enterprise Architect | Applied AI & Enterprise GenAI | GPU Platforms | Hybrid & Sovereign Cloud
 
 Helping enterprises design, modernize, and scale **production-grade AI Platforms** by combining **GPU Infrastructure**, **Enterprise GenAI**, **Hybrid Cloud**, and **LLM Platform Engineering**.
 
@@ -14,6 +14,17 @@ With 16+ years in Enterprise Architecture and Cloud Transformation, my work focu
 [![Medium](https://img.shields.io/badge/Medium-Technical_Blogs-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sandipsingh.2007)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-Models_&_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/sandipsingh2007)
 [![Docker Hub](https://img.shields.io/badge/Docker-Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/repositories/sandyappdev)
+
+---
+
+# ⭐ Featured Projects
+
+| Project | What it shows |
+|---|---|
+| [**Enterprise-AI-Fabric**](https://github.com/gpu-stack/Enterprise-AI-Fabric) | Production-grade, multi-tenant RAG platform: hybrid dense + BM25 search (RRF), parent-child chunking, cross-encoder re-ranking, multi-turn memory, RAGAS quality gate, SLA telemetry, and multi-provider LLM engine (OpenAI, Azure OpenAI, Gemini, vLLM, Ollama). FastAPI + Celery/Redis + React/TypeScript. |
+| [**AI-Infrastructure-Engineering**](https://github.com/gpu-stack/AI-Infrastructure-Engineering) | End-to-end LLM inference on an on-prem NVIDIA A40: INT8 quantization (SmoothQuant + GPTQ), vLLM serving with Prometheus/Grafana/DCGM, KV-cache and batching tuning with benchmarks, and QLoRA fine-tuning served via vLLM multi-LoRA. |
+
+Earlier iterations of the RAG platform ([Enterprise-RAG](https://github.com/gpu-stack/Enterprise-RAG), [Enterprise-RAG-V2](https://github.com/gpu-stack/Enterprise-RAG-V2)) are kept for history and are superseded by Enterprise-AI-Fabric.
 
 ---
 
@@ -57,7 +68,7 @@ Designing enterprise guardrails covering security, policy enforcement, evaluatio
 
 # Strategic Technology Focus
 
-Rather than focusing on individual tools, I focus on designing platforms built around modern AI infrastructure including:
+Platforms I design and build around include:
 
 - NVIDIA AI Enterprise
 - NVIDIA AI Factory
@@ -129,12 +140,13 @@ I regularly write about enterprise AI architecture and production engineering, i
 - LLM Evaluation
 - Production AI Systems
 
-Recent articles include:
+Recent articles on [Medium](https://medium.com/@sandipsingh.2007):
 
-- Stop Buying Bigger GPUs. Your AI Probably Doesn't Need Them.
-- Engineering a Production-Grade Multi-Tenant RAG Platform
-- Improving RAG Faithfulness from 0.00 to 0.93+
-- Enterprise AI Infrastructure Best Practices
+- [Why Great AI Code Fails on the Wrong Hardware: A Solution Architect's Reality Check](https://medium.com/@sandipsingh.2007/why-great-ai-code-fails-on-the-wrong-hardware-a-solution-architects-reality-check-019911966e4b)
+- [Beyond the Hype: Squeezing 0.93](https://medium.com/@sandipsingh.2007/beyond-the-hype-squeezing-0-93-ea8838221d92)
+- [Your AI Doesn't Know If It's Lying — Ours Does](https://medium.com/@sandipsingh.2007/your-ai-doesnt-know-if-it-s-lying-ours-does-d5d564a0ac52)
+- [Building a Sovereign, Cost-Optimised Intelligent Inference Gateway](https://medium.com/@sandipsingh.2007/building-a-sovereign-cost-optimised-intelligent-inference-gateway-d02133eea039)
+- [Run AI Locally: Build Your First 100% Private AI System (No GPU Needed)](https://medium.com/@sandipsingh.2007/run-ai-locally-build-your-first-100-private-ai-system-no-gpu-needed-d2a987f76586)
 
 ---
 
